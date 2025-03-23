@@ -1,4 +1,4 @@
-# 💻 Aspiring Data Analyst | SQL Expert | Python Enthusiast  
+# 💻 Aspiring Data Analyst | SQL Enthusiast  | Python Enthusiast  
 
 Hi there! 👋 I'm passionate about uncovering patterns in data, driving actionable insights, and contributing to meaningful projects. With a solid foundation in **SQL**, **Python**, and **Power BI**, I aim to turn complex datasets into impactful stories for decision-making.  
 
