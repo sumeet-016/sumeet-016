@@ -10,7 +10,7 @@ Hi there! 👋 I'm passionate about uncovering patterns in data, driving actiona
 - **Data Analysis:** SQL, Python (Pandas, Numpy), Excel  
 - **Visualization:** Power BI, Matplotlib, Seaborn
 - **Databases:** PostgreSQL, MySQL
-- **Tools:** Excel, VSCode, Jupter Notebook, Kaggle Notebook. Google Colab, SQL Workbench 
+- **Tools:** Excel, VSCode, Jupter Notebook, Kaggle Notebook, Google Colab, SQL Workbench 
 
 ### **Certifications:**  
 - All SQL Certifications from HackerRank  
