@@ -7,10 +7,10 @@ Hi there! 👋 I'm passionate about uncovering patterns in data, driving actiona
 ## 🚀 Tech & Tools  
 
 ### **Languages & Technologies:**  
-- **Data Analysis:** SQL, Python (Pandas, Numpy, Matplotlib)  
-- **Visualization:** Power BI, Matplotlib
-- **Databases:** PostgreSQL, MySQL  
-- **Tools:** Excel, VSCode, PowerPoint  
+- **Data Analysis:** SQL, Python (Pandas, Numpy), Excel  
+- **Visualization:** Power BI, Matplotlib, Seaborn
+- **Databases:** PostgreSQL, MySQL
+- **Tools:** Excel, VSCode, Jupter Notebook, Kaggle Notebook. Google Colab, SQL Workbench 
 
 ### **Certifications:**  
 - All SQL Certifications from HackerRank  
