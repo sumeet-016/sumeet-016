@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/8f9c7852-c5c6-478d-b4db-3e4a4e5ca9a5" />
+</p>
+
 # 💻 Aspiring Data Analyst | SQL Enthusiast  | Python Enthusiast  
 
 Hi there! 👋 I'm passionate about uncovering patterns in data, driving actionable insights, and contributing to meaningful projects. With a solid foundation in **SQL**, **Python**, and **Power BI**, I aim to turn complex datasets into impactful stories for decision-making.  
