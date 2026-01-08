@@ -6,37 +6,12 @@ Hi there! 👋 I'm passionate about uncovering patterns in data, driving actiona
 
 ## 🚀 Tech & Tools  
 
-### **Languages & Technologies:**  
-- **Data Analysis:** SQL, Python (Pandas, Numpy), Excel  
-- **Visualization:** Power BI, Matplotlib, Seaborn
-- **Databases:** PostgreSQL, MySQL
-- **Tools:** Excel, VSCode, Jupter Notebook, Kaggle Notebook, Google Colab, SQL Workbench 
-
-### **Certifications:**  
-- All SQL Certifications from HackerRank  
-- Google Analytics
-- Introduction to Data Science
----
-
-## 📈 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumeet-016&show_icons=true&hide_border=true&theme=radical" alt="GitHub Stats"/>  
-</div>
-
----
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,cpp,docker,flask,git,matlab,mysql,postgres,pycharm,py,sklearn,tensorflow" />
+  </a>
+</p>
 
 ## 🌐 Connect with Me  
 - LinkedIn: [Sumeet Kumar Pal](https://www.linkedin.com/in/palsumeet)  
 - Email: [pal.sumeetkumar@gmail.com](mailto:pal.sumeetkumar@gmail.com)  
-
----
-
-## 📊 Current Goals  
-- Contribute to innovative data-driven projects  
-- Expand expertise in machine learning and advanced data visualization  
-- Build dashboards that provide actionable insights  
-
----
-
-Thanks for stopping by! Happy coding 🎉  
