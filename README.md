@@ -2,10 +2,13 @@
     <img src="https://github.com/user-attachments/assets/8f9c7852-c5c6-478d-b4db-3e4a4e5ca9a5" />
 </p>
 
-# 💻 Aspiring Data Science | Python Enthusiast  | Machine Learning Enthusiast  
+# 💻 Data Science | Machine Learning Enthusiast  
 
-Hi there! 👋 I'm passionate about uncovering patterns in data, driving actionable insights, and contributing to meaningful projects. With a solid foundation in **SQL**, **Python**, and **Power BI**, I aim to turn complex datasets into impactful stories for decision-making.  
+I am an aspiring data professional with practical experience in SQL, Python, and Power BI, focused on transforming structured data into meaningful insights.
 
+My skill set includes data querying and analysis using SQL and Python, building interactive dashboards in Power BI, and applying supervised machine learning techniques for predictive analysis. I also have experience developing basic data applications using Streamlit to present analytical results effectively.
+
+I am actively strengthening my data analysis, machine learning, and visualization skills through hands-on projects, with the objective of contributing to data-driven teams and solving real-world problems.
 ---
 
 ## 🚀 Tech & Tools  
