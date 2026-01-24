@@ -15,7 +15,7 @@ I am actively strengthening my data analysis, machine learning, and visualizatio
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,cpp,docker,flask,git,matlab,mysql,postgres,pycharm,py,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=anaconda,cpp,git,matlab,mysql,postgres,py,pycharm,sklearn" />
   </a>
 </p>
 
