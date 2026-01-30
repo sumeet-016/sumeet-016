@@ -4,7 +4,7 @@
 
 # 💻 Data Science | Machine Learning Enthusiast  
 
-I am an aspiring data professional with practical experience in SQL, Python, and Power BI, focused on transforming structured data into meaningful insights.
+I am an aspiring data professional with practical experience in SQL, Python, Docker and Power BI, focused on transforming structured data into meaningful insights.
 
 My skill set includes data querying and analysis using SQL and Python, building interactive dashboards in Power BI, and applying supervised machine learning techniques for predictive analysis. I also have experience developing basic data applications using Streamlit to present analytical results effectively.
 
